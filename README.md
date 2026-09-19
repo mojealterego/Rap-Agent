@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./assets/social-preview.svg" alt="RAP AGENT — project visual" width="100%">
+
+</div>
+
+---
+
 # RAP-AGENT — Ω∞ SINGULARITY CREATOR
 
 A production-oriented autonomous creator engine for an original fictional Polish rap artist with durable identity, evolving computational affect, associative memory, creator canon, adversarial evaluation and hard quality gates.
